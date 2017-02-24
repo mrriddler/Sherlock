@@ -1,0 +1,19 @@
+
+disabled_rules:
+  ~end
+
+force_report: Warning
+
+project_prefix: Sherlock
+
+blacklist_path:
+  - Pods
+  - ThirdPart
+  ~end
+
+blacklist_prefix:
+  - AF
+  - SD
+  - FM
+  - YY
+  ~end
